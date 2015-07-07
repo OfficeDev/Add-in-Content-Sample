@@ -15,7 +15,7 @@ If you have Office 2013 or later on Windows:
 
 1. Host these files on a local network share.
 
-2. Open up an Office app (e.g. Excel or whatever you're interested in), open a document, and then select File > Options > Trust Center > Trust Center Settings > Trusted App Catalogs. 
+2. Open up an Office app (Excel or PowerPoint), open a document, and then select File > Options > Trust Center > Trust Center Settings > Trusted App Catalogs. 
 
 3. Type the location of the directory on your local network share into the Catalog Url text field, and click Add Catalog. Make sure the Show in Menu check box is selected.
 
