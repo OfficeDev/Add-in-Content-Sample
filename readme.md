@@ -15,13 +15,15 @@ If you have Office 2013 or later on Windows:
 
 1. Host these files on a local network share.
 
-2. Open up an Office app (e.g. Excel or whatever you're interested in), and select File > Options > Trust Center > Trust Center Settings > Trusted App Catalogs. Type the location of the directory on your local network share into the Catalog Url text field, and press Add Catalog. Make sure the Show in Menu check box is selected.
+2. Open up an Office app (e.g. Excel or whatever you're interested in), open a document, and then select File > Options > Trust Center > Trust Center Settings > Trusted App Catalogs. 
 
-3. Press OK. Close the Office app and launch it again so the changes take effect.
+3. Type the location of the directory on your local network share into the Catalog Url text field, and click Add Catalog. Make sure the Show in Menu check box is selected.
 
-4. Go to Insert > My Apps > Shared Folder and select My First Content Add-in, and then press Insert. If you don't see the Add-in, press Refresh.
+4. Click OK. Close the Office app and launch it again so the changes take effect.
 
-5. The Add-in should be inserted in the middle of your document.
+5. Go to Insert > My Apps > Shared Folder and select My First Content Add-in, and then click Insert. If you don't see the Add-in, click Refresh.
+
+6. The Add-in is inserted in the middle of your document.
 
 For more information, please read: https://msdn.microsoft.com/EN-US/library/office/fp123503.aspx
 
