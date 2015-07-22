@@ -7,7 +7,7 @@
 
 This sample showcases a simple add-in for Office that lets you get data from a document. 
 
-The easiest way to run this sample is to open it in the playground for Office Add-ins: http://aka.ms/Lgaz15 
+The easiest way to run this sample is to open it in the playground for Office Add-ins: http://aka.ms/Lgaz15 (will launch the sample in Excel Online)
 
 ===================================================================================
 
@@ -43,7 +43,7 @@ Note: You need to already have a subscription to Office 365. If you don't have o
 
 4. Select the "+" button to add a new add-in, and choose the manifest.xml file from your local directory. Press OK and the add-in will install.
 
-5. Open the app launcher on the top left hand corner and select an Office app (e.g. Excel or whatever you're interested in).
+5. Open the app launcher on the top left hand corner and select an Office app (Excel).
 
 6. When the Office app opens, go to Insert > Apps for Office and select My First Content Add-in under My Organization. If you don't see the add-in, press Refresh. Press Insert and the add-in should appear.
 
