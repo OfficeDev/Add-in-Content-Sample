@@ -33,7 +33,7 @@ For more information, please read: https://msdn.microsoft.com/EN-US/library/offi
 
 If you don't have Office 2013 or later, or are not using Windows:
 
-1. Host these files online (e.g. AWS, Azure, Heroku, etc). In the manifest.xml file, change the default value of the SourceLocation to point to the URL where the index.html file is hosted.
+1. Host these files locally (on localhost) or online (e.g. AWS, Azure, Heroku, etc). In the manifest.xml file, change the default value of the SourceLocation to point to the URL where the index.html file is hosted.
 
 2. Go to the Office 365 portal (https://portal.office.com) and click on Admin in the app launcher on the top left hand corner.
 
