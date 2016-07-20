@@ -37,7 +37,7 @@ If you are using Office Online:
 
 2. Go to the Office 365 portal (https://portal.office.com) and click on Admin in the app launcher on the top left hand corner.
 
-Note: You need to already have a subscription to Office 365. If you don't have one, obtain a free account for 30 days from https://portal.microsoftonline.com/Signup/MainSignUp.aspx?OfferId=6881A1CB-F4EB-4db3-9F18-388898DAF510&DL=DEVELOPERPACK
+Note: You need to already have a subscription to Office 365. If you don't have one, [Join the Office 365 Developer Program and get a free 1 year subscription to Office 365](https://aka.ms/devprogramsignup).
 
 3. Select SharePoint > apps > App Catalog > Apps for Office. (If you don't have an App Catalog site, you need to create one.)
 
