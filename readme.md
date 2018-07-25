@@ -7,13 +7,9 @@
 
 This sample showcases a simple add-in for Office that lets you get data from a document.
 
-The easiest way to run this sample is to open it in the playground for Office Add-ins: http://aka.ms/Lgaz15 (only works for Excel Online at the moment; if you're using PowerPoint: read on). Click the Run Project icon to launch the sample in Excel Online (you will need to login using a Microsoft account).
+Follow these steps to run the sample:
 
-===================================================================================
-
-If you're not using the playground for Office Add-ins, follow these steps to run the sample:
-
-If you have Office 2013 or later on Windows:
+## To run on Office 2013 or later on Windows:
 
 1. Host these files on a local network share.
 
@@ -27,11 +23,9 @@ If you have Office 2013 or later on Windows:
 
 6. The add-in is inserted in the middle of your document.
 
-For more information, please read: https://msdn.microsoft.com/EN-US/library/office/fp123503.aspx
+For more information, please read [Sideload Office Add-ins on Windows](https://docs.microsoft.com/en-us/office/dev/add-ins/testing/create-a-network-shared-folder-catalog-for-task-pane-and-content-add-ins)
 
-====================================================================================
-
-If you are using Office Online:
+## To run on Office Online:
 
 1. Host these files locally (on localhost) or online (e.g. AWS, Azure, Heroku, etc). In the manifest.xml file, change the DefaultValue of the SourceLocation to point to the URL where the index.html file is hosted.
 
@@ -47,7 +41,6 @@ Note: You need to already have a subscription to Office 365. If you don't have o
 
 6. When the Office app opens, go to Insert > Apps for Office and select My First Content Add-in under My Organization. If you don't see the add-in, press Refresh. Press Insert and the add-in should appear.
 
-For more information on publishing Office Add-ins, please read: https://msdn.microsoft.com/EN-US/library/office/fp123517.aspx
-
+For more information on publishing Office Add-ins, please read [Sideload Office Add-ins in Office Online](https://docs.microsoft.com/en-us/office/dev/add-ins/testing/sideload-office-add-ins-for-testing).
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information, see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
