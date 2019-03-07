@@ -1,3 +1,15 @@
+---
+topic: sample
+products:
+- Office 365
+languages:
+- HTML
+extensions:
+  contentType: samples
+  technologies:
+  - Add-ins
+  createdDate: 5/21/2015 11:26:37 AM
+---
        ____            _             _        _       _     _       _
       / ___|___  _ __ | |_ ___ _ __ | |_     / \   __| | __| |     (_)_ __  
      | |   / _ \| '_ \| __/ _ \ '_ \| __|   / _ \ / _` |/ _` |_____| | '_ \
