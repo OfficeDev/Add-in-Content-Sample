@@ -1,9 +1,9 @@
 ---
 topic: sample
 products:
-- Office 365
+- office-365
 languages:
-- HTML
+- html
 extensions:
   contentType: samples
   technologies:
